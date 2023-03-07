@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  background-color: "orange";
+}
+.rootContainer {
+  display: "flex";
+}
+.bgBlue {
+  background-color: "skyblue";
+}
+.bgOrange {
+  background-color: "orange";
+}
+.disabled_true {
+  opacity: 0;
+}

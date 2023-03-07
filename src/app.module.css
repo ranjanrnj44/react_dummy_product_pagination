@@ -1,0 +1,12 @@
+.rootContainer{
+  display: 'flex';
+}
+.productItem{
+  background-color: 'silver';
+  padding: '10px';
+  margin: '0.2rem'
+}
+.productImg{
+  width:'100%';
+  max-width:'300px';
+}
